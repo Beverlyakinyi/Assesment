@@ -1,0 +1,86 @@
+#header{
+    border: 500%;
+    margin: 500%;
+    padding: 500%;
+     background-repeat: no-repeat;
+}
+#nav1{
+    display: flex;
+    gap: 10%;
+    background-color: lightgreen;
+    background-repeat: no-repeat;
+}
+#head{
+    display: flex;
+    gap: 100px;
+    font-size: xx-large;
+    background-repeat: no-repeat;
+
+}
+#joy{
+    font-size: xx-large;
+    background-repeat: no-repeat;
+}
+#shirt{
+    display: flex;
+    gap: 15%;
+    background-repeat: no-repeat;
+
+}
+#turn{
+    display: flex;
+    gap: 5%;
+    margin-left: 40%;
+    font-size: xx-large;
+    background-repeat: no-repeat;
+    
+    
+}
+#shoe{
+    padding-left: 80%;
+    
+    
+}
+#image{
+    display: flex;
+    gap: 5%;
+}
+#nice{
+    display: flex;
+}
+#girl{
+    display:flex
+    
+    
+}
+#boy{
+    display:flex
+    
+}
+#man{
+    display: flex;
+}
+#footer{
+    display: flex;
+    gap: 10%;
+    border-bottom: 200%;
+    
+}
+#learn{
+    display: flex;
+    gap:20%;
+    
+}
+#is{
+    text-align: center;
+    font-size: xx-large;
+}
+@media(max-width:400px){
+    #nav1{
+        display: flex;
+        gap: 10%;
+        background-color: yellow;
+    }
+
+}
+
